@@ -6,11 +6,7 @@
 
 ## Domain
 
-**Artificial Intelligence and Machine Learning (AI/ML)**
-
-### Sub-domain
-
-**Recommendation Systems / Recommender Systems**
+**Artificial Intelligence (AI)
 
 ---
 
@@ -345,4 +341,3 @@ The project provides practical experience with recommendation-system concepts, d
 
 **Lakshmi Prasanna Ponnaganti**
 
-B.Tech Computer Science and Engineering

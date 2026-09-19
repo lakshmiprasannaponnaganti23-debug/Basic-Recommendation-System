@@ -4,10 +4,6 @@
 
 **Lakshmi Prasanna Ponnaganti**
 
-## Domain
-
-**Artificial Intelligence (AI)**
-
 ---
 
 ## Project Overview
@@ -340,4 +336,8 @@ The project provides practical experience with recommendation-system concepts, d
 ## Author
 
 **Lakshmi Prasanna Ponnaganti**
+
+Project: Basic Recommendation System
+
+Domain: Artificial Intelligence (AI)
 
